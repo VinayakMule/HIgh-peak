@@ -1,0 +1,14 @@
+Number of employees: 5
+
+Goodies and Prices:
+
+Mi plus: 6890
+IPhones: 26403
+Samsung Band: 999
+Sunburn Pass: 2799
+Samsung Note pro: 119900
+Digital Camera: 15990
+siri: 8989
+Electrical Kettle: 2020
+Mixer : 8700
+Scale: 6780

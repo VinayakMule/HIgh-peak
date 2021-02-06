@@ -1,0 +1,9 @@
+The goodies selected for distribution are:
+
+Samsung Band: 999
+Electrical Kettle: 2020
+Sunburn Pass: 2799
+Scale: 6780
+Mi plus: 6890
+
+And the difference between the chosen goodie with highest price and the lowest price is 5891
